@@ -280,144 +280,7 @@
     </div>
 </div>
 
-<!-- <div class="container-fluid gtco-features-list">
-    <div class="container">
-        <div class="row">
-            <div class="media col-md-6 col-lg-4">
-                <div class="oval mr-4"><img class="align-self-start" src="images/quality-results.png" alt=""></div>
-                <div class="media-body">
-                    <h5 class="mb-0">Quality Results</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
-                </div>
-            </div>
-            <div class="media col-md-6 col-lg-4">
-                <div class="oval mr-4"><img class="align-self-start" src="images/analytics.png" alt=""></div>
-                <div class="media-body">
-                    <h5 class="mb-0">Analytics</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
-                </div>
-            </div>
-            <div class="media col-md-6 col-lg-4">
-                <div class="oval mr-4"><img class="align-self-start" src="images/affordable-pricing.png" alt=""></div>
-                <div class="media-body">
-                    <h5 class="mb-0">Affordable Pricing</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
-                </div>
-            </div>
-            <div class="media col-md-6 col-lg-4">
-                <div class="oval mr-4"><img class="align-self-start" src="images/easy-to-use.png" alt=""></div>
-                <div class="media-body">
-                    <h5 class="mb-0">Easy To Use</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
-                </div>
-            </div>
-            <div class="media col-md-6 col-lg-4">
-                <div class="oval mr-4"><img class="align-self-start" src="images/free-support.png" alt=""></div>
-                <div class="media-body">
-                    <h5 class="mb-0">Free Support</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
-                </div>
-            </div>
-            <div class="media col-md-6 col-lg-4">
-                <div class="oval mr-4"><img class="align-self-start" src="images/effectively-increase.png" alt=""></div>
-                <div class="media-body">
-                    <h5 class="mb-0">Effectively Increase</h5>
-                    Aliquam a nisl pulvinar, hendrerit arcu sed, dapibus velit. Duis ac quam id sapien vestibulum
-                    fermentum ac eu eros. Aliquam erat volutpat.
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
-<!-- <div class="container-fluid gtco-logo-area">
-    <div class="container">
-        <div class="row">
-            <div class="col"><img src="images/logo1.png" class="img-fluid" alt=""></div>
-            <div class="col"><img src="images/logo2.png" class="img-fluid" alt=""></div>
-            <div class="col"><img src="images/logo3.png" class="img-fluid" alt=""></div>
-            <div class="col"><img src="images/logo4.png" class="img-fluid" alt=""></div>
-            <div class="col"><img src="images/logo5.png" class="img-fluid" alt=""></div>
-        </div>
-    </div>
-</div> -->
-<!-- <div class="container-fluid gtco-news" id="news">
-    <div class="container">
-        <h2>Latest News & Articles</h2>
-        <div class="owl-carousel owl-carousel2 owl-theme">
-            <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news1.jpg" alt="">
-                    <div class="card-body text-left pr-0 pl-0">
-                        <h5>Aenean ultrices lorem quis blandit
-                            tempor urabitur accumsan. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
-                </div>
-            </div>
-            <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news2.jpg" alt="">
-                    <div class="card-body text-left pr-0 pl-0">
-                        <h5> Nam vel nisi eget odio pulvinar
-                            iaculis. Fusce aliquet. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
-                </div>
-            </div>
-            <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news3.jpg" alt="">
-                    <div class="card-body text-left pr-0 pl-0">
-                        <h5>Morbi faucibus odio sollicitudin
-                            risus scelerisque dignissim. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
-                </div>
-            </div>
-            <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news1.jpg" alt="">
-                    <div class="card-body text-left pr-0 pl-0">
-                        <h5>Aenean ultrices lorem quis blandit
-                            tempor urabitur accumsan. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
-                </div>
-            </div>
-            <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news2.jpg" alt="">
-                    <div class="card-body text-left pr-0 pl-0">
-                        <h5> Nam vel nisi eget odio pulvinar
-                            iaculis. Fusce aliquet. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
-                </div>
-            </div>
-            <div>
-                <div class="card text-center"><img class="card-img-top" src="images/news3.jpg" alt="">
-                    <div class="card-body text-left pr-0 pl-0">
-                        <h5>Morbi faucibus odio sollicitudin
-                            risus scelerisque dignissim. </h5>
-                        <p class="card-text">Donec non sem mi. In hac habitasse platea dictumst. Nullam a feugiat augue,
-                            et porta metus. Nulla mollis lobortis leet. Maecenas tincidunt, arcu sed ornare purus risus
-                            . . . </p>
-                        <a href="#">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
+
 <footer class="container-fluid" id="gtco-footer">
     <div  class="container">
         <div class="row">
@@ -452,7 +315,7 @@
                         </ul>
                     </div>
                     <div class="col-12">
-                        <!-- <p>&copy; 2019. All Rights Reserved. Design by <a href="https://gettemplates.co" target="_blank">GetTemplates</a>.</p> -->
+
                     </div>
                 </div>
             </div>
