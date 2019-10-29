@@ -85,7 +85,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
             ?>
             <hr><div class="alert alert-danger"><p align="center"><strong>
                         <i class="fa fa-exclamation-triangle"></i> Error Processing Request!</strong>
-                    Prepare Failed </p></div>
+                    Login Failed </p></div>
             <?php
         }
         mysqli_stmt_close($stmt);
