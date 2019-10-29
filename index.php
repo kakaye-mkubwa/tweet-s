@@ -1,23 +1,7 @@
 <!doctype html>
 
 <html lang="en">
-<?php
-  require_once ('utils/Config.php');
 
-  $results = array();
-  $tweetFunctions = new Config();
-
-  if ($_SERVER['REQUEST_METHOD'] == "POST")
-  {
-    if (isset($_POST['search_q']))
-    {
-      $searchQ = htmlspecialchars($_POST['search_q']);
-      $results= $tweetFunctions -> getTweets($searchQ);
-    }
-  }
-  // $resultsArray = $results;
-  // $resultsArray = json_decode($results, true);
-?>
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -41,10 +25,36 @@
 
     <link href="css/solid.css" rel="stylesheet">
     <script src="plugins/jquery-1.8.3/jquery-1.8.3.min.js"></script>
-    <title>G-Tweet</title>
-    <style>
+    <?php
+    require_once ('utils/Config.php');
 
-    </style>
+    $results = array();
+    $tweetFunctions = new Config();
+
+    if ($_SERVER['REQUEST_METHOD'] == "POST")
+    {
+        if (isset($_POST['search_q']))
+        {
+            $searchQ = htmlspecialchars($_POST['search_q']);
+            $results= $tweetFunctions -> getTweets($searchQ);
+
+            ?>
+            <script>
+                $(function() {
+                    $(document).scrollTop( $("#tweet-results-div").offset().top );
+                });
+            </script>
+            <?php
+        }
+    }
+    // $resultsArray = $results;
+    // $resultsArray = json_decode($results, true);
+    ?>
+
+
+
+    <title>G-Tweet</title>
+
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light bg-transparent" id="gtco-main-nav">

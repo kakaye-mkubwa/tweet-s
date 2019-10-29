@@ -2,7 +2,7 @@
 jQuery(function($){
 	$(document).ready(function()
 	{
-		console.log("Restarted");
+		// console.log("Restarted");
 		//hide tweet Results
 		// $('#tweet-results-div').hide();
 		//hide submit buttons

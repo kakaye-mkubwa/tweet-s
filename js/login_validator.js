@@ -5,7 +5,7 @@ $(document).ready(function()
 
    $('#login_username').focus(function()
    {
-        if (empty(username))
+        if (username === '')
         {
             $('#username-error').val("Username is required");
         }
